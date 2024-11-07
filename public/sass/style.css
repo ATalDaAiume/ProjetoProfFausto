@@ -46,6 +46,47 @@
   filter: brightness(0) invert(1);
 }
 
+footer {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  background-color: whitesmoke;
+  padding: 15px 10px 15px 15px;
+}
+
+.container_quadrados {
+  list-style: none;
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+  justify-content: space-around;
+}
+@media (max-width: 768px) {
+  .container_quadrados {
+    display: block;
+  }
+}
+.container_quadrados li {
+  display: inline-block;
+  background-color: #ffffff;
+  margin-right: 5px;
+  border-radius: 8px;
+  padding: 20px;
+}
+@media (max-width: 768px) {
+  .container_quadrados li {
+    width: 100%;
+  }
+}
+
+h2 {
+  color: #1a4e92;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 * {
   margin: 0;
   padding: 0;
