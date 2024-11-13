@@ -47,8 +47,6 @@
 }
 
 footer {
-  bottom: 0;
-  position: fixed;
   width: 100%;
   background-color: whitesmoke;
   padding: 15px 10px 15px 15px;
@@ -94,6 +92,7 @@ h2 {
 }
 
 body {
+  overflow-x: hidden;
   background: rgb(0, 85, 148);
   background: linear-gradient(25deg, rgb(0, 85, 148) 0%, rgb(247, 139, 31) 98%);
 }
@@ -118,7 +117,8 @@ button:hover {
 .img-fluid {
   margin-left: 62%;
   display: flex;
-  width: 50%;
+  overflow: hidden;
+  width: 50vw;
 }
 
 .quadradoum {
