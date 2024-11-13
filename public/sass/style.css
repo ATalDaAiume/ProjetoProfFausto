@@ -87,6 +87,44 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  background: rgb(0, 85, 148);
+  background: linear-gradient(25deg, rgb(0, 85, 148) 0%, rgb(247, 139, 31) 98%);
+}
+
+button {
+  background-color: #f78b1f;
+  color: #FFFFFF;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+  margin-top: 20%;
+}
+
+button:hover {
+  background-color: #e67300; /* Laranja mais escuro ao passar o mouse */
+}
+
+.img-fluid {
+  margin-left: 62%;
+  display: flex;
+  width: 50%;
+}
+
+.quadradoum {
+  margin-left: 5%;
+  margin-top: 5%;
+  color: #FFFFFF;
+  font-size: 20px;
+  width: 40%;
+  height: 55px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 * {
   margin: 0;
   padding: 0;
