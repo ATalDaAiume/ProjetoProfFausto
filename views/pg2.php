@@ -3,5 +3,9 @@
 ?>
 
 <?php
+    require("partials/main.php");
+?>
+
+<?php
     require("/partials/footer.php");
 ?>

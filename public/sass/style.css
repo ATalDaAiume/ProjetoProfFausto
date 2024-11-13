@@ -18,6 +18,7 @@
 .header-logo {
   width: 120px;
   aspect-ratio: 16/9;
+  margin-left: -25%;
 }
 
 .header nav ul {
@@ -115,7 +116,7 @@ button:hover {
 }
 
 .img-fluid {
-  margin-left: 62%;
+  margin-left: 50%;
   display: flex;
   overflow: hidden;
   width: 50vw;
