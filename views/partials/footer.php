@@ -1,46 +1,43 @@
 <footer>
     <h2>Inscrições abertas</h2>
-    <br>
-    <ul class="container_quadrados">
+    
+    <ul class="container-quadrados">
         <li class="quadrado">
-            <p>CURSO LIVRE</p><br>
+            <h4>CURSO LIVRE</h4>
             <p>
-                Atualização no Tratamento de Feridas e Curativos<br>
-                Inicio 07/02/2025
-            </p><br>
-            <p>Senac Rio do Sul</p>
+                Atualização no Tratamento de Feridas e Curativos 
+                
+            </p>
+            <p>Inicio 07/02/2025 <br> Senac Rio do Sul</p>
         </li>
         <li class="quadrado">
-            <p>CURSO TÉCNICO</p><br>
+            <h4>CURSO TÉCNICO</h4>
             <p>
-                Técnico em Enfermagem<br>
-                Inicio 10/02/2025.
-            </p><br>
-            <p>Senac Brusque</p>
+                Técnico em Enfermagem
+                
+            </p>
+            <p>Inicio 10/02/2025 <br> Senac Brusque</p>
         </li>
         <li class="quadrado">
-            <p>GRADUAÇÃO</p><br>
+            <h4>GRADUAÇÃO</h4>
             <p>
-                Superior de Tecnologia em Processos Gerenciais<br>
-                Inicio 10/02/2025
-            </p><br>
-            <p>Senac Joinville</p>
+                Superior de Tecnologia em Processos Gerenciais
+            </p>
+            <p>Inicio 10/02/2025 <br> Senac Joinville</p>
         </li>
         <li class="quadrado">
-            <p>PÓS-GRADUAÇÃO</p><br>
+            <h4>PÓS-GRADUAÇÃO</h4>
             <p>
-                Pós-Graduação Lato Sensu em Marketing Digital<br>
-                Inicio 08/11/2024
-            </p><br>
-            <p>Senac Concordia</p>
+                Pós-Graduação Lato Sensu em Marketing Digital
+            </p>
+            <p>Inicio 08/11/2024 <br> Senac Concordia</p>
         </li>
         <li class="quadrado">
-            <p>ESPECIALIZAÇÃO TÉCNICA</p><br>
+            <h4>ESPECIALIZAÇÃO TÉCNICA</h4>
             <p>
-                Especialização Técnica de Enfermagem em Saúde Mental<br>
-                Inicio 06/03/2025
-            </p><br>
-            <p>Senac Florianópolis</p>
+                Especialização Técnica de Enfermagem em Saúde Mental
+            </p>
+            <p>Inicio 06/03/2025 <br> Senac Florianópolis</p>
         </li>
     </ul>
 </footer>
