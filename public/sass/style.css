@@ -138,3 +138,12 @@ button:hover {
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
 }/*# sourceMappingURL=style.css.map */
+
+::-webkit-scrollbar {
+  background-color: #005594;
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #e67300;
+}
