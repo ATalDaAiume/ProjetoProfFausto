@@ -1,4 +1,4 @@
-![Projeto de conclusão](https://img.shields.io/badge/projeto%20de20%conclusão-web-pink)
+![Trabalho de conclusão](https://img.shields.io/badge/trabalho%20de%20conclusão-web-pink)
 
 # 🌐 Projeto de Conclusão - Desenvolvimento Web
 > Atividade Avaliativa – Desenvolvimento Web | 2º Semestre ADS
