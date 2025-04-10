@@ -54,4 +54,14 @@ Repositório referente ao **Trabalho de Conclusão da Unidade** da disciplina de
 ├── 📄 index.php
 ├── 📄 package-lock.json
 └── 📄 package.json
+```
 
+## 📝 Observações
+
+Este projeto foi desenvolvido como **Trabalho de Conclusão da Unidade** da disciplina de **Desenvolvimento Web**, com o objetivo de consolidar os conhecimentos adquiridos ao longo da unidade, integrando conceitos de **front-end e back-end**.
+
+O site foi desenvolvido utilizando boas práticas de **UX/UI Design**, com layout baseado em **Figma**, estrutura modular com **PHP**, organização de estilos com **SASS** e uso de **HTML semântico**. O projeto também demonstra habilidades com **versionamento de código**, criação de **componentes reutilizáveis** e adoção de um **sistema de grid** para garantir responsividade.
+
+A estrutura modular do código e a separação de responsabilidades entre arquivos visam facilitar a **manutenção** e a **escalabilidade** do projeto. Além disso, o uso do `package.json` permite rastrear dependências e facilitar a configuração do ambiente de desenvolvimento.
+
+Este repositório representa o esforço colaborativo da equipe para entregar uma solução funcional, visualmente coerente e tecnicamente sólida.
