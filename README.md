@@ -1,6 +1,7 @@
-![atividade avaliativa](https://img.shields.io/badge/atividade%20avaliativa-web-pink)
+![Projeto de conclusão](https://img.shields.io/badge/projeto%20de20%conclusão-web-pink)
 
 # 🌐 Projeto de Conclusão - Desenvolvimento Web
+> Atividade Avaliativa – Desenvolvimento Web | 2º Semestre ADS
 
 Repositório referente ao **Trabalho de Conclusão da Unidade** da disciplina de **Desenvolvimento Web**, com o objetivo de desenvolver um site completo, integrando conceitos de **Front-End** e **Back-End**, planejamento visual e boas práticas de organização de código.
 
